@@ -1,1 +1,1 @@
-"# react-app-template" 
+# react-app-template
